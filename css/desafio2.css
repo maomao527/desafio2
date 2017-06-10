@@ -1,0 +1,35 @@
+body
+{
+  font-family: 'Oswald', sans-serif;
+  margin: 0;
+}
+
+header
+{
+  background-color: #83872C;
+  padding: 30px;
+
+}
+
+.mensaje
+{
+ background-color: black;
+ color: white;
+ padding: 250px;
+}
+
+footer a
+{
+  text-decoration: none;
+  margin-left: 50px;
+  color: white;
+  font-size: 20px;
+  padding-bottom: 20px;
+
+}
+
+footer
+{
+    height: 100px;
+    background-color: #83872C;
+}
